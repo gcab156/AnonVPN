@@ -3,13 +3,13 @@
 ------------------------------------------------------------------------
 
 
-<h3 style="color:rgb(0, 199, 206)">Introduction</h3>
+<h2 style="color:rgb(0, 199, 206)">Introduction</h2>
 
 <p><i>Anonymous VPN is a script for Kali Linux.</i> Anonymous VPN was developed for "Kali Linux" and "Parrot OS" in order to protect the user on public networks and on the internet. This VPN connects the user to the TOR Network providing the user with increased privacy and security. Every time the user connects, the script changes the MAC Address of the network card being used.</p>
 
 ------------------------------------------------------------------------
 
-<h3 style="color:rgb(238, 255, 0)">Operating System Requirements</h3>
+<h2 style="color:rgb(238, 255, 0)">Operating System Requirements</h2>
 
 <h5>Anonymous VPN works on any of the following operating systems:</h5>
 <p>• <b>Kali Linux</b></p>
@@ -18,9 +18,9 @@
 
 ------------------------------------------------------------------------
 
-<h3 style="color:rgb(0, 119, 255)">How to Install</h3>
+<h2 style="color:rgb(0, 119, 255)">How to Install</h2>
 
-<h5>Open the terminal on any directory and type following commands.</h5>
+<h4>Open the terminal on any directory and type following commands.</h4>
 
 `sudo apt update`
 
@@ -30,11 +30,11 @@
 
 `cd Anonymous-VPN`
 
-`sudo python3 install setup.py`
+`sudo python3 -m pip install -r requirement.txt`
 
 ------------------------------------------------------------------------ 
 
-<h3 style="color:rgb(255, 0, 106)">How to Use?</h3>
+<h2 style="color:rgb(255, 0, 106)">How to Use?</h2>
 
 **-->** Go to the directory where the script is installed
 
@@ -42,9 +42,9 @@
 
 ------------------------------------------------------------------------
 
-<h3 style="color:rgb(255, 102, 0)">How to remove ?</h3>
+<h2 style="color:rgb(255, 102, 0)">How to remove ?</h2>
 
-<h5>Open the terminal on script directory and type following commands.</h5>
+<h4>Open the terminal on script directory and type following commands.</h4>
 
 `cd ..`
 
