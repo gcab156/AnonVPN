@@ -2,6 +2,16 @@
 
 ------------------------------------------------------------------------
 
+<img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+
+------------------------------------------------------------------------
+<img src="https://img.shields.io/github/followers/gcab156.svg?style=social&label=Follow&maxAge=2592000">
+<img src="https://img.shields.io/github/watchers/gcab156/AnonVPN.svg">
+<img src="https://img.shields.io/github/stars/gcab156/AnonVPN.svg">
+<img src="https://img.shields.io/github/downloads/gcab156/AnonVPN/total.svg">
+
+------------------------------------------------------------------------
+
 
 <h3 style="color:rgb(0, 199, 206)">Introduction</h3>
 
@@ -22,15 +32,15 @@
 
 <h5>Open the terminal on any directory and type following commands.</h5>
 
-`sudo apt update`
+`sudo apt update -y`
 
-`sudo apt upgrade`
+`sudo apt upgrade -y`
 
 `git clone https://github.com/gcab156/AnonVPN.git`
 
 `cd AnonVPN`
 
-`python3 install setup.py`
+`sudo python3 install.py`
 
 ------------------------------------------------------------------------ 
 
