@@ -1,14 +1,19 @@
-<h1 style="color:rgb(7, 206, 0)">AnonVPN</h1>
+# AnonVPN
 
 ------------------------------------------------------------------------
 
-<img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+<div>
+    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+</div>
 
 ------------------------------------------------------------------------
-<img src="https://img.shields.io/github/followers/gcab156.svg?style=social&label=Follow&maxAge=2592000">
-<img src="https://img.shields.io/github/watchers/gcab156/AnonVPN.svg">
-<img src="https://img.shields.io/github/stars/gcab156/AnonVPN.svg">
-<img src="https://img.shields.io/github/downloads/gcab156/AnonVPN/total.svg">
+
+<div>
+    <img src="https://img.shields.io/github/followers/gcab156.svg?style=social&label=Follow&maxAge=2592000">
+    <img src="https://img.shields.io/github/watchers/gcab156/AnonVPN.svg">
+    <img src="https://img.shields.io/github/stars/gcab156/AnonVPN.svg">
+    <img src="https://img.shields.io/github/downloads/gcab156/AnonVPN/total.svg">
+</div>
 
 ------------------------------------------------------------------------
 
