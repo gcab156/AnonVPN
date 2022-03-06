@@ -9,7 +9,6 @@
 ------------------------------------------------------------------------
 
 <div>
-    <img src="https://img.shields.io/github/followers/gcab156.svg?style=social&label=Follow&maxAge=2592000">
     <img src="https://img.shields.io/github/watchers/gcab156/AnonVPN.svg">
     <img src="https://img.shields.io/github/stars/gcab156/AnonVPN.svg">
     <img src="https://img.shields.io/github/downloads/gcab156/AnonVPN/total.svg">
