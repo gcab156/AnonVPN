@@ -30,7 +30,7 @@
 
 `cd Anonymous-VPN`
 
-`python3 install setup.py`
+`sudo python3 install setup.py`
 
 ------------------------------------------------------------------------ 
 
